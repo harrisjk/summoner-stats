@@ -1,0 +1,6 @@
+pandas
+riotwatcher
+pyspark
+ipywidgets
+ipyfilechooser
+jupyter_contrib_nbextensions
